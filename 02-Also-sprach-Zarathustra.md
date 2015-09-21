@@ -2,7 +2,7 @@
 
 ## Zarathustra's Vorrede.
 
-### 1.
+#### 1.
 
 Als Zarathustra dreissig Jahr alt war, verliess er seine Heimat und den
 See seiner Heimat und ging in das Gebirge. Hier genoss er seines Geistes
@@ -46,7 +46,7 @@ wieder Mensch werden."
 
 - Also begann Zarathustra's Untergang.
 
-### 2.
+#### 2.
 
 Zarathustra stieg allein das Gebirge abwärts und Niemand begegnete ihm.
 Als er aber in die Wälder kam, stand auf einmal ein Greis vor ihm, der
@@ -118,7 +118,7 @@ Als Zarathustra aber allein war, sprach er also zu seinem Herzen:
 "Sollte es denn möglich sein! Dieser alte Heilige hat in seinem Walde
 noch Nichts davon gehört, dass *Gott todt* ist!" -
 
-### 3.
+#### 3.
 
 Als Zarathustra in die Nächste Stadt kam, die an den Wäldern liegt, fand
 er daselbst viel Volk versammelt auf dem Markte: denn es war verheissen
@@ -220,7 +220,7 @@ hörten nun genug von dem Seiltänzer; nun lasst uns ihn auch sehen!" Und
 alles Volk lachte über Zarathustra. Der Seiltänzer aber, welcher
 glaubte, dass das Wort ihm gälte, machte sich an sein Werk.
 
-### 4.
+#### 4.
 
 Zarathustra aber sahe das Volk an und wunderte sich. Dann sprach er
 also:
@@ -304,7 +304,7 @@ Blitz kommt, und gehn als Verkündiger zu Grunde.
 Seht, ich bin ein Verkündiger des Blitzes und ein schwerer Tropfen aus
 der Wolke: dieser Blitz aber heisst Übermensch. -
 
-### 5.
+#### 5.
 
 Als Zarathustra diese Worte gesprochen hatte, sahe er wieder das Volk an
 und schwieg. "Da stehen sie", sprach er zu seinem Herzen, "da lachen
@@ -404,7 +404,7 @@ meinen, ich sei kalt und ein Spötter in furchtbaren Spässen.
 Und nun blicken sie mich an und lachen: und indem sie lachen, hassen sie
 mich noch. Es ist Eis in ihrem Lachen.
 
-### 6.
+#### 6.
 
 Da aber geschah Etwas, das jeden Mund stumm und jedes Auge starr machte.
 Inzwischen nämlich hatte der Seiltänzer sein Werk begonnen: er war aus
@@ -453,7 +453,7 @@ Als Zarathustra diess gesagt hatte, antwortete der Sterbende nicht mehr;
 aber er bewegte die Hand, wie als ob er die Hand Zarathustra's zum Danke
 suche. -
 
-### 7.
+#### 7.
 
 Inzwischen kam der Abend, und der Markt barg sich in Dunkelheit: da
 verlief sich das Volk, denn selbst Neugierde und Schrecken werden müde.
@@ -479,7 +479,7 @@ Dunkel ist die Nacht, dunkel sind die Wege Zarathustra's. Komm, du
 kalter und steifer Gefährte! Ich trage dich dorthin, wo ich dich mit
 meinen Händen begrabe.
 
-### 8.
+#### 8.
 
 Als Zarathustra diess zu seinem Herzen gesagt hatte, lud er den Leichnam
 auf seinem Rücken und machte sich auf den Weg. Und noch nicht war er
@@ -544,7 +544,7 @@ denn er wollte ihn vor den Wölfen schützen - und sich selber auf den
 Boden und das Moos. Und alsbald schlief er ein, müden Leibes, aber mit
 einer unbewegten Seele.
 
-### 9.
+#### 9.
 
 Lange schlief Zarathustra, und nicht nur die Morgenröthe gieng über sein
 Antlitz, sondern auch der Vormittag. Endlich aber that sein Auge sich
@@ -612,7 +612,7 @@ meinem Glücke.
 Zu meinem Ziele will ich, ich gehe meinen Gang; über die Zögernden und
 Saumseligen werde ich hinwegspringen. Also sei mein Gang ihr Untergang!
 
-### 10.
+#### 10.
 
 Diess hatte Zarathustra zu seinem Herzen gesprochen, als die Sonne im\
  Mittag stand: da blickte er fragend in die Höhe - denn er hörte über\
