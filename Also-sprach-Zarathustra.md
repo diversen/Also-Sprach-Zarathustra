@@ -5970,6 +5970,7 @@ Als Zarathustra aber diese Worte gesprochen hatte, überfiel ihn die\
  also dass er laut weinte; und Niemand wusste ihn zu trösten. Des\
  Nachts aber gieng er allein fort und verliess seine Freunde.\
 
+
 # Dritter Theil
 
 "Ihr seht nach Oben, wenn ihr nach Erhebung verlangt. Und ich sehe
