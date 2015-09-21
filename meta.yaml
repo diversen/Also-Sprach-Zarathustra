@@ -1,0 +1,27 @@
+---
+title: 'Friedrich Wilhelm Nietzsche: Also sprach Zarathustra'
+Subtitle: > 
+    Ein Buch für Alle und Keinen 
+subject: The Complete Cthulhu Mythos
+author:
+- Friedrich Wilhelm Nietzsche
+keywords: ebooks, Nietzsche, Zarathustra
+rights: Creative Commons Non-Commercial Share Alike 3.0
+language: de
+tags: [Nietzsche, Zarathustra]
+cover-image: Also-sprach-Zarathustra.jpg
+lang: de
+date: '2015-01-27'
+stylesheet: epub.css
+publisher: http://gittobook.org
+rights: http://creativecommons.org/licenses/by-sa/2.5/
+
+# pandoc format arguments
+# because of security these options are limited
+format-arguments:
+    html-chunked: -S --chapters --toc
+    epub: -S --toc --toc-depth=1
+    mobi: ok
+ignore-files:
+    - README.md
+...

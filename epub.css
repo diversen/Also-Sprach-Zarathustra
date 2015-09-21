@@ -1,0 +1,74 @@
+/* Style Sheet for ePub Books */
+
+/* Set margins at 2% (This gives a white border around the book) */
+
+body {margin-left:2%;
+    margin-right:2%;
+    margin-top:2%;
+    margin-bottom:2%;}
+
+/* Text indent will make a paragraph indent, like putting a tab at the beginning of each new paragraph
+The margin settings get rid of the white space between paragraphs, again so it looks more like a book
+The text-align line justifies the margins. If you don't want them justified, change it to left, or remove that line
+You don't have to specify a font, but you can */
+
+span.center { 
+    display: block;
+    text-align: center !important; 
+    margin-bottom:1.0em;
+    text-indent:0 !important;
+}
+
+blockquote  {
+    margin-bottom:1.0em;
+    text-indent:0em !important;
+    font-size: 90%;
+    margin-left: 10%;
+    margin-right: 10%;    
+}
+
+/*
+span.first {
+    display: block;
+    margin-top:1.0em;
+    margin-bottom:0.0em;
+    text-align:justify;
+    text-indent:0 !important;
+}*/
+
+p {
+    margin-top:0.0em;
+    margin-bottom:0.0em;
+    text-indent:1.0em;
+    text-align:justify;
+}
+
+
+
+/*
+p {text-indent: .3in;
+    margin-left:0;
+    margin-right:0;
+    margin-top:0;
+    margin-bottom:0;
+    text-align: justify;
+    font-family:"Times New Roman";}
+*/
+/* Here we make our headings centered
+We've also made the headings the same font as the body text */
+
+/* This defines styles and classes used in the book */
+body { margin: 5%; text-align: justify; font-size: medium; }
+code { font-family: monospace; }
+h1 { text-align: center; }
+h2 { text-align: center; }
+h3 { text-align: center; }
+h4 { text-align: center; }
+h5 { text-align: center; }
+h6 { text-align: center; }
+h1.title { }
+h2.author { }
+h3.date { }
+ol.toc { padding: 0; margin-left: 1em; }
+ol.toc li { list-style-type: none; margin: 0; padding: 0; }
+
