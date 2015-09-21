@@ -3029,7 +3029,7 @@ diess sei einst am grossen Mittage unser letzter Wille! -
 
 Also sprach Zarathustra.
 
-## Zweiter Theil
+# Zweiter Theil
 
 "- und erst, wenn ihr mich Alle verleugnet habt, will ich euch
 wiederkehren.
@@ -5970,7 +5970,7 @@ Als Zarathustra aber diese Worte gesprochen hatte, überfiel ihn die\
  also dass er laut weinte; und Niemand wusste ihn zu trösten. Des\
  Nachts aber gieng er allein fort und verliess seine Freunde.\
 
-## Dritter Theil
+# Dritter Theil
 
 "Ihr seht nach Oben, wenn ihr nach Erhebung verlangt. Und ich sehe
 hinab, weil ich erhoben bin.
@@ -9439,7 +9439,7 @@ Nie noch fand ich das Weib, von dem ich Kinder mochte, sei denn dieses\
 
 Denn ich liebe dich, oh Ewigkeit!
 
-## Vierter und letzter Theil
+# Vierter und letzter Theil
 
 Ach, wo in der Welt geschahen grössere Thorheiten, als bei den\
  Mitleidigen? Und was in der Weit stiftete mehr Leid, als die\
