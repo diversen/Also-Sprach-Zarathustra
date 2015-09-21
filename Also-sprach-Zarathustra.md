@@ -93,7 +93,7 @@ eBook or online at www.gutenberg.org
       Die Erweckung\
       Das Eselsfest\
       Das Nachtwandler-Lied\
-      Das Zeichen\
+      Das Zeichen
 
 # Erster Theil
 
