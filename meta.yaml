@@ -19,8 +19,9 @@ rights: http://creativecommons.org/licenses/by-sa/2.5/
 # pandoc format arguments
 # because of security these options are limited
 format-arguments:
+    pdf: -S --toc
     # html-chunked: -S --chapters --toc
-    html: -S --chapters --toc --toc-depth=3
+    html-chunked: -S --chapters --toc --toc-depth=3
     epub: -S --toc --toc-depth=3
     mobi: ok
 ignore-files:
