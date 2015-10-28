@@ -44,7 +44,7 @@ ihm fliesse und überallhin den Abglanz deiner Wonne trage!
 Siehe! Dieser Becher will wieder leer werden, und Zarathustra will
 wieder Mensch werden."
 
--   Also begann Zarathustra's Untergang.
+- Also begann Zarathustra's Untergang.
 
 2.
 
@@ -643,7 +643,7 @@ immer mit meiner Klugheit gehe!
 Und wenn mich einst meine Klugheit verlässt: - ach, sie liebt es,
 davonzufliegen! - möge mein Stolz dann noch mit meiner Thorheit fliegen!
 
--   Also begann Zarathustra's Untergang.
+- Also begann Zarathustra's Untergang.
 
 ### Die Reden Zarathustra's
 
