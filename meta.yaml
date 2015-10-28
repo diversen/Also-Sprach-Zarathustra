@@ -19,7 +19,7 @@ rights: http://creativecommons.org/licenses/by-sa/2.5/
 # pandoc format arguments
 # because of security these options are limited
 format-arguments:
-    pdf: -V documentclass=book --template=templates/my.latex -S --toc --chapters -V fontsize=12pt  -V lang=english
+    pdf: -V documentclass=book --template=templates/my.latex -S --toc --chapters -V fontsize=12pt  -V lang=german
     # html-chunked: -S --chapters --toc
     html: -S --chapters --toc --toc-depth=3
     epub: -S --toc --toc-depth=3
