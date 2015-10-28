@@ -383,8 +383,7 @@ verdirbt es den Magen.
 Man hat sein Lüstchen für den Tag und sein Lüstchen für die Nacht: aber
 man ehrt die Gesundheit.
 
-"Wir haben das Glück erfunden" - sagen die letzten Menschen und blinzeln
--
+"Wir haben das Glück erfunden" - sagen die letzten Menschen und blinzeln -
 
 Und hier endete die erste Rede Zarathustra's, welche man auch "die
 Vorrede" heisst: denn an dieser Stelle unterbrach ihn das Geschrei und
