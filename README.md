@@ -1,18 +1,21 @@
 # Also Sprach Zarathustra
 
-In German. With proper formatted Epub and Mobi chapters (I hope). 
+In German, with proper formatted PDF, Epub and Mobi chapters (I hope). 
 
-Download ebook and mobi files at:
+Download Epub, Mobi, and PDF files at:
 
-[http://gittobook.org/books/62/Also-Sprach-Zarathustra](http://gittobook.org/books/62/Also-Sprach-Zarathustra)
+* [http://gittobook.org/books/62/Also-Sprach-Zarathustra](http://gittobook.org/books/62/Also-Sprach-Zarathustra)
+* [http://gittobook.org/downloads/62/Also-Sprach-Zarathustra.epub](Epub)
+* [http://gittobook.org/downloads/62/Also-Sprach-Zarathustra.mobi](Mobi)
+* [http://gittobook.org/downloads/62/Also-Sprach-Zarathustra.pdf](PDF) You may have to download it by rightclicking the link as the document is about 400 pages, which your browser may not like.
 
-Base source was fetched like this from gutenberg.org: 
+The source was fetched like from gutenberg.org, like this:
 
     wget http://www.gutenberg.org/cache/epub/7205/pg7205.txt
 
-Pandoc command transforming text to markdown: 
+The Pandoc command transforming the text to markdown: 
 
     pandoc pg7205.txt -o zara.md
 
-You are welcome to find error and I create a pull request. 
+You are welcome to find any error, and create a pull request. 
 
