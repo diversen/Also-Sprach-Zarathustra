@@ -7,7 +7,7 @@ Download Epub, Mobi, and PDF files at:
 * [http://gittobook.org/books/62/Also-Sprach-Zarathustra](http://gittobook.org/books/62/Also-Sprach-Zarathustra)
 * [Epub](http://gittobook.org/downloads/62/Also-Sprach-Zarathustra.epub)
 * [Mobi](http://gittobook.org/downloads/62/Also-Sprach-Zarathustra.mobi)
-* [http://gittobook.org/downloads/62/Also-Sprach-Zarathustra.pdf](PDF) You may have to download it by rightclicking the link as the document is about 400 pages, which your browser may not like.
+* [PDF](http://gittobook.org/downloads/62/Also-Sprach-Zarathustra.pdf) (You may have to download it by rightclicking the link as the document is about 400 pages, which your browser may not like.)
 
 The source was fetched like from gutenberg.org, like this:
 
